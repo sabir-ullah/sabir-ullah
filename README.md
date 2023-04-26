@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/sabir-ullah-2361a7257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sabir Ullah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sabirullah.okz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://twitter.com/imSabirullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified learner" height="30" width="40" /></a>
-<a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
