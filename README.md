@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabir-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="sabir-ullah" /> </p>
 
-- ⚡ Fun fact **I am funny😅**
+
 - 🔭 I'm currently working on **Mobile Application Development**
 - 🤝 I’m looking for help with **Those developers who are stuck in bugs**
 - 🌱 I’m currently learning **Advanced level of development in Mobile apps**
+- ⚡ Fun fact **I am funny😅**
 
 
 <h3 align="left">Connect with me:</h3>
