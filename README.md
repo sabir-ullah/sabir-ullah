@@ -1,5 +1,10 @@
  # Sabir Ullah&nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
- <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/master/Assets/Earth.gif" width="24px">
+ 
+ <img align="right" alt="PC GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Earth.gif" width="24px">
+
+
  <p>
   <em>
     I am a Graduated in BSCS from <a href="http://www.kust.edu.pk/kust/"> <b>Kohat University of Science and Technology</b>, Kohat KPK Pakistan</a>.  
