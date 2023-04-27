@@ -37,9 +37,8 @@
 </p>
 <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=radical"/>
 
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir-ullah&show_icons=true&locale=en&layout=compact" alt="sabir-ullah" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en" alt="sabir-ullah" /></p>
+<a href="https://quine.sh/profile/sabir-ullah"><img src="https://stats.quine.sh/sabir-ullah/github?simple=true" alt="sabir-ullah's GitHub stats" width="840px"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ullah&" alt="sabir-ullah" /></p>
+<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Footer.jpg">
+
