@@ -42,8 +42,7 @@
 <a href="https://www.instagram.com/sabirullah.okz/" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Instagram.svg" alt="Instagram Logo" height="30" width="40" /></a>
 <a href="https://twitter.com/imSabirullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Twitter.svg" alt="Twitter Logo" height="30" width="40" /></a>
 <a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/facebook.png" alt="Facebook Logo" height="30" width="40" /></a>
-
-<a href="https://github.com/sabir-ullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" height="30" width="40" /></a>
+<a href="https://github.com/sabir-ullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/github.png" alt="github Logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
