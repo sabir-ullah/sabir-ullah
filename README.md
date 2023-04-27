@@ -1,16 +1,13 @@
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 [![Linkedin: Sabir](https://img.shields.io/badge/-Sabir-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-ullah-2361a7257/)](https://www.linkedin.com/in/sabir-ullah-2361a7257/) &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/sabir-ullah?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sabir-ullah&color=brightgreen">
- 
+
  # Sabir Ullah&nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
  
  <img align="right" alt="PC GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Earth.gif" width="24px">
-
 
  <p>
   <em>
@@ -23,6 +20,8 @@
 </p>
 
 <br>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I'm currently working on **Mobile Application Development**
 - 📫 How to reach me? **sabirullah.okz@gmail.com**
