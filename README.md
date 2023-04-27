@@ -3,7 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabir-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="sabir-ullah" /> </p>
+[![Linkedin: Sabir](https://img.shields.io/badge/-Sabir-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-ullah-2361a7257/)](https://www.linkedin.com/in/sabir-ullah-2361a7257/) &nbsp;
+![GitHub followers](https://img.shields.io/github/followers/sabir-ullah?label=Follow&style=social) &nbsp;
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=sabir-ullah&color=brightgreen">
 
 
 - 🔭 I'm currently working on **Mobile Application Development**
