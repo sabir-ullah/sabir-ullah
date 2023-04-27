@@ -39,5 +39,5 @@
 
 
 
-<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Footer.jpg">
 
