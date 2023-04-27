@@ -1,6 +1,16 @@
  # Sabir Ullah&nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
  <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/master/Assets/Earth.gif" width="24px">
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+ <p>
+  <em>
+    I am a Graduated in BSCS from <a href="http://www.kust.edu.pk/kust/"> <b>Kohat University of Science and Technology</b>, Kohat KPK Pakistan</a>.  
+    A budding <b>Software Developer</b> <img src="https://github.com/sabir-ullah/sabir-ullah/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/sabir-ullah/sabir-ullah/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/sabir-ullah/sabir-ullah/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
+<br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
