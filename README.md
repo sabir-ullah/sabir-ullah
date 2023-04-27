@@ -40,5 +40,5 @@
 
 <a href="https://quine.sh/profile/sabir-ullah"><img src="https://stats.quine.sh/sabir-ullah/github?simple=true" alt="sabir-ullah's GitHub stats" width="840px"></a>
 
-<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Footer.jpg">
+<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
 
