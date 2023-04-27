@@ -28,7 +28,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&layout=compact&count_private=true&theme=dark">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir-ullah&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
+<b>My Statistics</b><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en&theme=dark" alt="sabir-ullah" /></p>
+<br>
+<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ullah&theme=dark" alt="sabir-ullah" style="max-width: 100%;"/>
+</p>
+<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=dracula"/>
+
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir-ullah&show_icons=true&locale=en&layout=compact" alt="sabir-ullah" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en" alt="sabir-ullah" /></p>
 
