@@ -38,10 +38,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sabir-ullah-2361a7257/" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">" alt="Sabir Ullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabir-ullah-2361a7257/" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>
 <a href="https://www.instagram.com/sabirullah.okz/" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Instagram.svg" alt="Instagram Logo" height="30" width="40" /></a>
 <a href="https://twitter.com/imSabirullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Twitter.svg" alt="Twitter Logo" height="30" width="40" /></a>
-<a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Facebook.svg" alt="Facebook Logo" height="30" width="40" /></a>
+<a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Facebook.png" alt="Facebook Logo" height="30" width="40" /></a>
 
 <a href="https://github.com/sabir-ullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" height="30" width="40" /></a>
 </p>
