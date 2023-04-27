@@ -31,17 +31,19 @@
 - <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* the **Firebase** for **Mobile Apps** 💪.
 - <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **Flutter 🐍 projects**.
-- <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* to *Contribute* in **Open Source Projects or Community 🌐**
+- <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* to *Contribute* in **Open Sources or Community 🌐**
 - <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:**I am funny😅
 - 📫 How to reach me? **sabirullah.okz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sabir-ullah-2361a7257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Sabir Ullah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sabirullah.okz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://twitter.com/imSabirullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="simplified learner" height="30" width="40" /></a>
-<a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/facebook.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabir-ullah-2361a7257/" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">" alt="Sabir Ullah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sabirullah.okz/" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Instagram.svg" alt="Instagram Logo" height="30" width="40" /></a>
+<a href="https://twitter.com/imSabirullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Twitter.svg" alt="Twitter Logo" height="30" width="40" /></a>
+<a href="https://web.facebook.com/shakajani.h1" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Facebook.svg" alt="Facebook Logo" height="30" width="40" /></a>
+
+<a href="https://github.com/sabir-ullah" target="blank"><img align="center" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
