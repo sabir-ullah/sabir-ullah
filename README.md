@@ -7,7 +7,8 @@
 
 
 - 🔭 I'm currently working on **Mobile Application Development**
-- 🤝 I’m looking for help with **Those developers who are stuck in bugs**
+- 📫 How to reach me? **sabirullah.okz@gmail.com**
+- 🤝 I’m looking for Contribute in **Open Source Projects**
 - 🌱 I’m currently learning **Advanced level of development in Mobile apps**
 - ⚡ Fun fact **I am funny😅**
 
@@ -22,6 +23,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<b>Work Summary</b><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&layout=compact&count_private=true&theme=dark">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir-ullah&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
