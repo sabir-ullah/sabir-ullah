@@ -35,7 +35,7 @@
 <br>
 <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ullah&theme=dark" alt="sabir-ullah" style="max-width: 100%;"/>
 </p>
-<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=dracula"/>
+<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=radical"/>
 
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir-ullah&show_icons=true&locale=en&layout=compact" alt="sabir-ullah" /></p> -->
