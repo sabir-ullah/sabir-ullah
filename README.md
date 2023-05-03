@@ -50,7 +50,7 @@
 
 <b>Work Summary</b><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&layout=compact&count_private=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirullah-ullah&layout=compact&count_private=true&theme=dark">
 
 
 <b>My Statistics</b><br>
