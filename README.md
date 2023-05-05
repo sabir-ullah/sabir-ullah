@@ -50,10 +50,11 @@
 
 <b>Work Summary</b><br>
 
-<p href="https://github.com/sabir-ullah">
-&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1"/>
+<p href="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1">
+<!-- &nbsp; -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
 </p><br>
+
 
 <b>My Statistics</b><br>
 
