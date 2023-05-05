@@ -47,19 +47,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<b>My Statistics</b>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en&theme=dark" alt="sabir-ullah" /></p>
 
-<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ullah&theme=dark" alt="sabir-ullah" style="max-width: 100%;"/>
-</p>
-<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=radical"/>
-<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Footer.jpg">
 
 <b>Most Languages Used</b><br>
 
 <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
 </p><br>
+<br>
+<b>My Statistics</b>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en&theme=dark" alt="sabir-ullah" /></p>
+<br>
+<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ullah&theme=dark" alt="sabir-ullah" style="max-width: 100%;"/>
+</p>
+<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=radical"/>
+<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Footer.jpg">
+
 
 
