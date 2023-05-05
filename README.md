@@ -52,7 +52,7 @@
 
 <p href="https://github.com/sabir-ullah">
 &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
+  <[img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" /](https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1)>
 </p><br>
 
 <b>My Statistics</b><br>
