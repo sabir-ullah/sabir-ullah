@@ -51,15 +51,15 @@
 <b>Work Summary</b><br>
 
 <a href="https://github.com/sabir-ullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
+  <img height = "200" width = "200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
 </a>
 
+<br>
 
 <b>My Statistics</b><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en&theme=dark" alt="sabir-ullah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ullah&show_icons=true&locale=en&theme=dark" alt="sabir-ullah" /></p>
 <br>
-
 <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ullah&theme=dark" alt="sabir-ullah" style="max-width: 100%;"/>
 </p>
 <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=sabir-ullah&theme=radical"/>
