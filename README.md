@@ -51,7 +51,7 @@
 <b>Work Summary</b><br>
 
 <a href="https://github.com/sabir-ullah">
-  <img height = "200" width = "200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" />
 </a>
 
 <br>
