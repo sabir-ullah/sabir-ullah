@@ -50,7 +50,7 @@
 
 <b>Work Summary</b><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" alt="sabir-ullah" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabir-ullah&theme=dark&hide_langs_below=1" alt="sabir-ullah" /></p>
 <br>
 
 
@@ -65,3 +65,4 @@
 
 
 <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Footer.jpg">
+
