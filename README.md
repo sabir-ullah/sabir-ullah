@@ -7,7 +7,7 @@
  
  <img align="right" alt="PC GIF" src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Hi.gif" width="29px"> **Hello GitHUB!** &nbsp;<img src="https://github.com/sabir-ullah/sabir-ullah/blob/main/Assets/Earth.gif" width="24px">
 
  <p>
   <em>
